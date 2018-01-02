@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "449503442892",
+    "firebase_url": "https://queen-f890d.firebaseio.com",
+    "project_id": "queen-f890d",
+    "storage_bucket": "queen-f890d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449503442892:android:a20cac0cfaa6ce3d",
+        "android_client_info": {
+          "package_name": "com.wayne.queen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449503442892-auqe10n72v49k4crsm2digt59ftscjsv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wayne.queen",
+            "certificate_hash": "5f0313e1d6c8f42c86b021fa2de4ba76c28a57bc"
+          }
+        },
+        {
+          "client_id": "449503442892-lirvtfb6t661jotf8o2a4993bjl6tj92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACl94ISbeg84PMx0v55I0Y4qOzr87nJzU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449503442892-lirvtfb6t661jotf8o2a4993bjl6tj92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
